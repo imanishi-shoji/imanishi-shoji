@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imanishi-shoji.com/sitemap.xml
